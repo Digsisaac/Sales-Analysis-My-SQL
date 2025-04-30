@@ -102,7 +102,7 @@ Sales team performance
 
 #### Total Profit:
 
-Profit = (Order Quantity × Unit Price) − (Order Quantity × UnitCost) − DiscountApplied
+Profit = (Order Quantity × Unit Price) − (Order Quantity × UnitCost) − Discount Applied
 
 #### Total Quantity Sold:
 
@@ -139,3 +139,6 @@ Linked customer sales to team region.
 #### Sales Team Performance:
 
 Ranked sales teams based on total revenue contributed.
+
+## File Included
+- [`sales_analysis_project.sql`](./sales_analysis_project.sql) – Final SQL script used for all analysis
