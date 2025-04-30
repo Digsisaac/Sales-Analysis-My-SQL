@@ -141,4 +141,4 @@ Linked customer sales to team region.
 Ranked sales teams based on total revenue contributed.
 
 ## File Included
-- [`sales_analysis_project.sql`](./sales_analysis_project.sql) – Final SQL script used for all analysis
+- [Sales_analysis_project.sql](Sales_analysis_project.sql) – Final SQL script used for all analysis
