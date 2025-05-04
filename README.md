@@ -1,4 +1,4 @@
-# Sales-Analysis-My-SQL
+# Sales-Analysis-SQL
 
 ## Problem Statement
 
